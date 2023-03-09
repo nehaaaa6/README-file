@@ -1,0 +1,8 @@
+# README-file
+/data/
+/data/smart_meter_data.csv
+/data/building_characteristics.csv
+
+#Create a data dictionary that describes the variables in the data and any data cleaning or preprocessing that was performed, such as "data_dictionary.md", and add it to the "data" folder
+
+/data/data_dictionary.md
