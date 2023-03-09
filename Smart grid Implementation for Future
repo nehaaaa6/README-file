@@ -1,8 +1,10 @@
 # README-file
-Create a Python script to load and preprocess the data
+#Create a Python script to load and preprocess the data
+
 energy_data.py
 
 energy_usage_analysis.ipynb
 
 energy_report.py
-this script could generate a report summarizing the findings of the analysis, including energy usage patterns, potential savings through the use of smart energy systems, and recommendations for implementing smart energy system
+
+#this script could generate a report summarizing the findings of the analysis, including energy usage patterns, potential savings through the use of smart energy systems, and recommendations for implementing smart energy system
